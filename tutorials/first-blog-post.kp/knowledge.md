@@ -1,14 +1,13 @@
 ---
-title: This is a Knowledge Template Header
+title: First ipynb blog post
 authors:
-- sally_smarts
-- wesley_wisdom
+- Paul Marcilhay
 tags:
 - knowledge
 - example
-created_at: 2016-06-29 00:00:00
-updated_at: 2016-10-29 17:18:47.436711
-tldr: This is short description of the content and findings of the post.
+created_at: 2016-10-29 00:00:00
+updated_at: 2016-10-29 17:24:49.491875
+tldr: Test of a ipynb blog post.
 ---
 *NOTE: In the TL,DR, optimize for **clarity** and **comprehensiveness**. The goal is to convey the post with the least amount of friction, especially since ipython/beakers require much more scrolling than blog posts. Make the reader get a correct understanding of the post's takeaway, and the points supporting that takeaway without having to strain through paragraphs and tons of prose. Bullet points are great here, but are up to you. Try to avoid academic paper style abstracts.*
 
