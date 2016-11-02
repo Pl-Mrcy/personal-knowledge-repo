@@ -1,13 +1,14 @@
 ---
-title: This is a Knowledge Template Header
+title: Fourth blog post
 authors:
 - Paul Marcilhacy
 tags:
 - knowledge
 - example
+- test
 created_at: 2016-10-30 00:00:00
-updated_at: 2016-11-02 22:38:53.450051
-tldr: This is short description of the content and findings of the post.
+updated_at: 2016-11-02 22:43:03.777496
+tldr: Fourth blog post test in order to test the updating process.
 ---
 
 ### Motivation
